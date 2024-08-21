@@ -1,0 +1,19 @@
+.btn-special{
+    text-decoration: none;
+    color: white;
+    background-color: #23225C;
+    border-radius: 7px;
+    transition: all 0.5s;
+}
+.btn-special:hover{
+    color: rgba(255, 255, 255, 0.555);
+    background-color: #191842;
+}
+.titulo-def{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tam-let-18px *{
+    font-size: 18px;
+}
